@@ -5,7 +5,7 @@ Implementation of the neighbor joining algorithm.
 python nj.py
 ```
 ## Example
-Input: distance matrix in PHYLIP format, lower triangle matrix.
+Input: Distance matrix in PHYLIP format, lower triangle matrix.
 ```
 6
 U68589
